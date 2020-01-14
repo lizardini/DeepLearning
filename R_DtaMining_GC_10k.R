@@ -4,6 +4,7 @@ library(summarytools);library(dplyr);library(tidyr)
 library(splitstackshape);library(plyr)
 
 #import data set
+#)))))))))))))))))))))))fnffffjfkfljljhfaljhf
 wk <- read.csv("/Users/yerikovargas/Documents/FCA/SM.csv")
 
 #names and levels 
